@@ -24,8 +24,8 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository and navigate into the project directory.
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/elmaraliyevdev/charity-information-backend.git
+   cd backend
 
 2. Install required packages
 
